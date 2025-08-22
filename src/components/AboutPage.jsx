@@ -57,7 +57,7 @@ const AboutPage = ({ onBack }) => {
           </p>
           <div className="gamma-link">
             <a 
-              href="https://gamma.app/docs/quantum-computing-fundamentals" 
+              href="https://gamma.app/docs/Quantum-Gates-gn2o1v6rnehe9ma?mode=doc" 
               target="_blank" 
               rel="noopener noreferrer"
               className="gamma-button"
