@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Qubit-Gates-Bloch-Sphere-Simulator/static/css/main.7cffdf91.css",
+    "main.js": "/Qubit-Gates-Bloch-Sphere-Simulator/static/js/main.a1419f10.js",
+    "static/js/453.569620e9.chunk.js": "/Qubit-Gates-Bloch-Sphere-Simulator/static/js/453.569620e9.chunk.js",
+    "index.html": "/Qubit-Gates-Bloch-Sphere-Simulator/index.html",
+    "main.7cffdf91.css.map": "/Qubit-Gates-Bloch-Sphere-Simulator/static/css/main.7cffdf91.css.map",
+    "main.a1419f10.js.map": "/Qubit-Gates-Bloch-Sphere-Simulator/static/js/main.a1419f10.js.map",
+    "453.569620e9.chunk.js.map": "/Qubit-Gates-Bloch-Sphere-Simulator/static/js/453.569620e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cffdf91.css",
+    "static/js/main.a1419f10.js"
+  ]
+}
